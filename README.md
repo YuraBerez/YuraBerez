@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-     [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Yurii+Bereza;QA+Enginner;Business+analytics;Software+enginnering)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Yurii+Bereza;QA+Enginner;Business+analytics;Software+enginnering)](https://git.io/typing-svg)
 
 # Let's connect? 🤝
 
