@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Yurii+Bereza;QA Enginner;Business+analytics;Software+engineering+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
+ 
+</p>
+
 # Let's connect? 🤝
 
 <p align="center">
