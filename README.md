@@ -1,6 +1,5 @@
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Yurii+Bereza;QA+Enginner;Business+analytics;Software+enginnering)](https://git.io/typing-svg)
+### Hi there 👋
 
 # Let's connect? 🤝
 
@@ -19,19 +18,6 @@
   </a>
 </p>
 
+# My statistics 
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YuraBerez?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
-
-<!--
-**YuraBerez/YuraBerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
