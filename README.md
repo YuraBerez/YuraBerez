@@ -1,5 +1,5 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Quality+control;Business+analytics;Software+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Business+analytics;Software+development)](https://git.io/typing-svg)
 
 # Let's connect? 🤝
 
