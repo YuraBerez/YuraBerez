@@ -47,5 +47,8 @@ I'm a Software Engineer who loves solving complex problems across the entire sta
 
 ### 📊 My Statistics
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/YuraBerez?cardType=level&theme=dark" alt="My Awesome Stats" />
+  <img src="https://github.com/YuraBerez/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
+  <img src="https://github.com/YuraBerez/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+  <img src="https://github.com/YuraBerez/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" />
+  <img src="https://github.com/YuraBerez/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages" />
 </p>
